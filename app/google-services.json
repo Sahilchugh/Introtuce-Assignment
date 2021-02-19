@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141905388880",
+    "firebase_url": "https://introtuce-f7e88-default-rtdb.firebaseio.com",
+    "project_id": "introtuce-f7e88",
+    "storage_bucket": "introtuce-f7e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141905388880:android:301e2cb542d717936d3855",
+        "android_client_info": {
+          "package_name": "com.mlbrains.introtuceuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141905388880-ulk8bp61596o113hscl1o2dro9h6vl6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbM7Uvv1p089B9U-AK0S_GIoxZiKA_ARk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141905388880-ulk8bp61596o113hscl1o2dro9h6vl6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
